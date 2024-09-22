@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\\u0418\u0411\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|D:\\Labs\\\u0418\u0411\\Lab4\\encrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|solutionrelative:encrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|d:\\labs\\\u0438\u0431\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|D:\\Labs\\\u0418\u0411\\Lab4\\texts\\decryptportapolishtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|solutionrelative:texts\\decryptportapolishtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|D:\\Labs\\\u0418\u0411\\Lab4\\texts\\encryptportapolishtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|solutionrelative:texts\\encryptportapolishtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|D:\\Labs\\\u0418\u0411\\Lab4\\texts\\encryptpolishtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|solutionrelative:texts\\encryptpolishtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|D:\\Labs\\\u0418\u0411\\Lab4\\texts\\polishtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14C1BE4A-B892-4D72-AD4A-F89895E2AAC6}|Lab4.csproj|solutionrelative:texts\\polishtext.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncryptPortaPolishText.txt",
+              "DocumentMoniker": "D:\\Labs\\\u0418\u0411\\Lab4\\Texts\\EncryptPortaPolishText.txt",
+              "RelativeDocumentMoniker": "Texts\\EncryptPortaPolishText.txt",
+              "ToolTip": "D:\\Labs\\\u0418\u0411\\Lab4\\Texts\\EncryptPortaPolishText.txt",
+              "RelativeToolTip": "Texts\\EncryptPortaPolishText.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeJQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-04T08:42:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encrypter.cs",
+              "DocumentMoniker": "D:\\Labs\\\u0418\u0411\\Lab4\\Encrypter.cs",
+              "RelativeDocumentMoniker": "Encrypter.cs",
+              "ToolTip": "D:\\Labs\\\u0418\u0411\\Lab4\\Encrypter.cs",
+              "RelativeToolTip": "Encrypter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:02:30.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecryptPortaPolishText.txt",
+              "DocumentMoniker": "D:\\Labs\\\u0418\u0411\\Lab4\\Texts\\DecryptPortaPolishText.txt",
+              "RelativeDocumentMoniker": "Texts\\DecryptPortaPolishText.txt",
+              "ToolTip": "D:\\Labs\\\u0418\u0411\\Lab4\\Texts\\DecryptPortaPolishText.txt",
+              "RelativeToolTip": "Texts\\DecryptPortaPolishText.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADwCwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-04T08:53:04.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PolishText.txt",
+              "DocumentMoniker": "D:\\Labs\\\u0418\u0411\\Lab4\\Texts\\PolishText.txt",
+              "RelativeDocumentMoniker": "Texts\\PolishText.txt",
+              "ToolTip": "D:\\Labs\\\u0418\u0411\\Lab4\\Texts\\PolishText.txt",
+              "RelativeToolTip": "Texts\\PolishText.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABHAgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-29T07:39:21.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncryptPolishText.txt",
+              "DocumentMoniker": "D:\\Labs\\\u0418\u0411\\Lab4\\Texts\\EncryptPolishText.txt",
+              "RelativeDocumentMoniker": "Texts\\EncryptPolishText.txt",
+              "ToolTip": "D:\\Labs\\\u0418\u0411\\Lab4\\Texts\\EncryptPolishText.txt",
+              "RelativeToolTip": "Texts\\EncryptPolishText.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-29T07:03:38.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\\u0418\u0411\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Labs\\\u0418\u0411\\Lab4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:39:05.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

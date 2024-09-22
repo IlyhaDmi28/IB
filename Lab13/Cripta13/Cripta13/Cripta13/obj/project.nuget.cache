@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfEI9gc5uIjCmCB+Is6otUr/YvkQoDCIjGypIxO2ZfUmg3VUTWQyJnHKYg1oiCIzwaN6Yjoq29DF/yDlPy3TUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Labs\\ИБ\\Lab13\\Cripta13\\Cripta13\\Cripta13\\Cripta13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Илья\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Илья\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

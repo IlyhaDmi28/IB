@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\\u0418\u0411\\Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{667FD2DC-06EE-4867-AA72-DE792FC247CC}|Lab10\\Lab10.csproj|D:\\Labs\\\u0418\u0411\\Lab10\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667FD2DC-06EE-4867-AA72-DE792FC247CC}|Lab10\\Lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667FD2DC-06EE-4867-AA72-DE792FC247CC}|Lab10\\Lab10.csproj|D:\\Labs\\\u0418\u0411\\Lab10\\lab10\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667FD2DC-06EE-4867-AA72-DE792FC247CC}|Lab10\\Lab10.csproj|solutionrelative:lab10\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667FD2DC-06EE-4867-AA72-DE792FC247CC}|Lab10\\Lab10.csproj|d:\\labs\\\u0438\u0431\\lab10\\lab10\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667FD2DC-06EE-4867-AA72-DE792FC247CC}|Lab10\\Lab10.csproj|solutionrelative:lab10\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElGamal.cs",
+              "DocumentMoniker": "D:\\Labs\\\u0418\u0411\\Lab10\\Lab10\\ElGamal.cs",
+              "RelativeDocumentMoniker": "Lab10\\ElGamal.cs",
+              "ToolTip": "D:\\Labs\\\u0418\u0411\\Lab10\\Lab10\\ElGamal.cs",
+              "RelativeToolTip": "Lab10\\ElGamal.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAswCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:04:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RSA.cs",
+              "DocumentMoniker": "D:\\Labs\\\u0418\u0411\\Lab10\\Lab10\\RSA.cs",
+              "RelativeDocumentMoniker": "Lab10\\RSA.cs",
+              "ToolTip": "D:\\Labs\\\u0418\u0411\\Lab10\\Lab10\\RSA.cs",
+              "RelativeToolTip": "Lab10\\RSA.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:02:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\\u0418\u0411\\Lab10\\Lab10\\Program.cs",
+              "RelativeDocumentMoniker": "Lab10\\Program.cs",
+              "ToolTip": "D:\\Labs\\\u0418\u0411\\Lab10\\Lab10\\Program.cs",
+              "RelativeToolTip": "Lab10\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:59:54.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
